@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.h5
+*.joblib
+*.csv
+!.gitkeep
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+venv/
