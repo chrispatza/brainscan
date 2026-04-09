@@ -24,7 +24,6 @@ Cleaned research repository reconstructed from the notebook you provided.
 │   ├── extend_removed_filters.py
 │   ├── train_weighted_knn_per_filter.py
 │   └── update_dashboard_predictions.py
-└── original_notebook.ipynb
 ```
 
 ## What each script does
